@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["EzroStar","Aider le serveur","Giveaways","A votre écoute 24/7","Invite !","FreeBronze"];
+const statusMessages = ["Proton","Support","🇫🇷&🇬🇧","24/7","ProtonIsTheBestServer","MadeByBelsicc"];
 
 
 let currentIndex = 0;
