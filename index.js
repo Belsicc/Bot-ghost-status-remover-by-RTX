@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Proton","Support","🇫🇷&🇬🇧","24/7","ProtonIsTheBestServer","MadeByBelsicc"];
+const statusMessages = ["AutoSecure","Meilleur Bot de Securitée","🇫🇷","24/7","Gratuit !","2024 !"];
 
 
 let currentIndex = 0;
