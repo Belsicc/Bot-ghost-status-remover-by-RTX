@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Turbo.","Only at 0,50€","Votre Hébérgeur","24/7j","Private","2024"];
+const statusMessages = ["Turbo.","TurboAi","Bot Multifonctions","24/7j","TurboDot","2024"];
 
 
 let currentIndex = 0;
