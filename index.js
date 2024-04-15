@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PrivateHeberg","Only at 0,50€","Votre Hébérgeur","24/7j","Private","2024"];
+const statusMessages = ["Turbo.","Only at 0,50€","Votre Hébérgeur","24/7j","Private","2024"];
 
 
 let currentIndex = 0;
